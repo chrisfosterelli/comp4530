@@ -1,2 +1,6 @@
-# comp4530
-Hello World repository for COMP4530 @ Thompson Rivers University
+# COMP4530
+
+Hello!
+
+This is a simple repository to demonstrate Git and Github usage for COMP4530, 
+Advanced Software Engineering at Thompson Rivers University.
